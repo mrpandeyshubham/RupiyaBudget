@@ -1,6 +1,6 @@
 # ₹upiya Budget (formerly KharchaTrack) 💸
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://rupiyabudget-bs6ykedtg-shubham-kumar-pandeys-projects-19f09bcd.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://rupiyabudget.vercel.app/)
 [![Stack](https://img.shields.io/badge/Stack-MERN-blue.svg)](#)
 
 A sleek, premium, full-stack personal finance and friend-udhaar tracking application built to ditch the boring accounting-table spreadsheets in favor of a modern diary-style timeline dashboard.
